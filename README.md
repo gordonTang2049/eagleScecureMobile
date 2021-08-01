@@ -4,6 +4,9 @@ The core feature is to use Nfc enabled mobile phone to scan nfc tag and send the
 
 Nfc Tag would have been recorded its location, so the clock-in time is to prove the staff has visited the location.
 
+Below link is the Web portal link :
+https://github.com/gordonTang2049/eagleSecureWebPortal
+
 #### Use Case #1
 Cleaners can use this technology to clock-in and prove they have visited and clean at the scanned time.
 
